@@ -31,7 +31,8 @@
    40  git status
    41  clear
    43  history
+   git remote set-url origin https://token@github.com//2184mk-cell/github-for-devops-workshop.git
    git remote -v
    git commit -m "Initial commit"
    git push -u origin master
-
+   
