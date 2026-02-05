@@ -31,4 +31,7 @@
    40  git status
    41  clear
    43  history
-t
+   git remote -v
+   git commit -m "Initial commit"
+   git push -u origin master
+
