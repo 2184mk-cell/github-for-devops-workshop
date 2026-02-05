@@ -1,0 +1,34 @@
+    1  docker --version
+    2  ls
+    3  cd C:\Git Project\project\github-for-devops-workshop
+    4  ls -l
+    9  cd ..
+   10  cd ..
+   11  cd Git\ Project/
+   12  cd project/github-for-devops-workshop/
+   13  ls -l
+   14  rm testing.py
+   16  git init
+   17  ls -a
+   19  git status
+   22  git add testing.py
+   24  git rm --cached testing.py
+   25  git status
+   26  git add .
+   27  git status
+   28  git rm --cached testing.py
+   29  clear
+   30  git status
+   31  git status
+   32  git add .
+   33  git commit -m "added testing files"
+   34  git status
+   35  rm testing.py
+   36  git status
+   37  ls
+   38  git restore testing.py
+   39  ls
+   40  git status
+   41  clear
+   43  history
+t
